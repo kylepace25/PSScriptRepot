@@ -1,0 +1,1 @@
+(Get-ChildItem C:\Altaro\AltaroOffice365BackupWorker -Recurse -Filter "AltaroOffice365Backup.Backup.Worker.exe").VersionInfo.FileVersion
